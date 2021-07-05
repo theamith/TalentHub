@@ -47,10 +47,10 @@ If we accept the code, we will call you for a technical interview.
 - [x] Integrate React Native Debugger for debugging.
 
 ### Attract our hiring team
-- [ ] Use Redux, Saga / Thunk.
-- [ ] NativeBase or ReactNative UI Kitten or ReactNative Elements.
-- [ ] AsyncStorage, Firebase.
-- [ ] Form management using Formik or Redux Forms.
+- [ ] Use Redux, Saga.
+- [ ] ReactNative UI Kitten.
+- [ ] Realm DB.
+- [ ] Form management using Formik.
 - [ ] Write Clean Code.
 - [ ] Proper git commit message.
 
